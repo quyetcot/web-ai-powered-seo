@@ -8,8 +8,8 @@
 
 ## 📍 Trạng thái hiện tại
 
-**Phase hiện tại:** [Chưa bắt đầu]  
-**Task đang làm:** [Khởi tạo dự án]  
+**Phase hiện tại:** Phase 2: Database Design  
+**Task đang làm:** Thiết kế Supabase Schema  
 **Cập nhật lần cuối:** 2026-04-13
 
 ---
@@ -17,10 +17,10 @@
 ## ✅ Đã hoàn thành
 
 ### Phase 1: Setup
-- [ ] Next.js init + TypeScript + Tailwind
-- [ ] Shadcn/ui init
-- [ ] Cấu hình tsconfig paths (@/*)
-- [ ] Git init + .gitignore + .env.example
+- [x] Next.js init + TypeScript + Tailwind
+- [x] Shadcn/ui init
+- [x] Cấu hình tsconfig paths (@/*)
+- [x] Git init + .gitignore + .env.example
 
 ### Phase 2: Database
 - [ ] Supabase project tạo
@@ -86,11 +86,11 @@
 
 ## 💡 React concepts đã học
 
-- [ ] useState, useEffect cơ bản
+- [x] useState, useEffect cơ bản
 - [ ] useCallback, useMemo
 - [ ] TanStack Query (useQuery, useMutation)
 - [ ] Zustand store
-- [ ] Server Components vs Client Components
-- [ ] Next.js App Router (layouts, loading, error)
+- [x] Server Components vs Client Components
+- [x] Next.js App Router (layouts, loading, error)
 - [ ] Streaming với ReadableStream
 - [ ] Debounce pattern trong useEffect
