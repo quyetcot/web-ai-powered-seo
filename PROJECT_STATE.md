@@ -8,8 +8,8 @@
 
 ## 📍 Trạng thái hiện tại
 
-**Phase hiện tại:** Phase 2: Database Design  
-**Task đang làm:** Thiết kế Supabase Schema  
+**Phase hiện tại:** Phase 3: MVP Core  
+**Task đang làm:** Cấu hình Auth với Clerk  
 **Cập nhật lần cuối:** 2026-04-13
 
 ---
@@ -23,10 +23,10 @@
 - [x] Git init + .gitignore + .env.example
 
 ### Phase 2: Database
-- [ ] Supabase project tạo
-- [ ] Schema: bảng users, posts, ai_logs
-- [ ] RLS policies đã bật
-- [ ] Supabase client (browser + server) đã setup
+- [x] Supabase project tạo
+- [x] Schema: bảng users, posts, ai_logs
+- [x] RLS policies đã bật
+- [x] Supabase client (browser + server) đã setup
 
 ### Phase 3: MVP
 - [ ] Clerk setup + middleware
