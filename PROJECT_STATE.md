@@ -29,7 +29,8 @@
 - [x] Supabase client (browser + server) đã setup
 
 ### Phase 3: MVP
-- [ ] Clerk setup + middleware
+- [x] Clerk setup + middleware
+- [x] Login & Register pages (Custom UI with AuthWrapper)
 - [ ] Layout (Sidebar + Navbar)
 - [ ] TipTap editor cơ bản
 - [ ] API Route: POST /api/ai/generate (streaming)
@@ -89,7 +90,7 @@
 - [x] useState, useEffect cơ bản
 - [ ] useCallback, useMemo
 - [ ] TanStack Query (useQuery, useMutation)
-- [ ] Zustand store
+- [x] Zustand store
 - [x] Server Components vs Client Components
 - [x] Next.js App Router (layouts, loading, error)
 - [ ] Streaming với ReadableStream
