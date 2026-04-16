@@ -9,8 +9,8 @@
 ## 📍 Trạng thái hiện tại
 
 **Phase hiện tại:** Phase 3: MVP Core  
-**Task đang làm:** Cấu hình Auth với Clerk  
-**Cập nhật lần cuối:** 2026-04-13
+**Task đang làm:** Hoàn thiện Editor Toolbar  
+**Cập nhật lần cuối:** 2026-04-16
 
 ---
 
@@ -31,8 +31,8 @@
 ### Phase 3: MVP
 - [x] Clerk setup + middleware
 - [x] Login & Register pages (Custom UI with AuthWrapper)
-- [ ] Layout (Sidebar + Navbar)
-- [ ] TipTap editor cơ bản
+- [x] Layout (Sidebar + Navbar)
+- [x] TipTap editor cơ bản (đã xử lý SSR)
 - [ ] API Route: POST /api/ai/generate (streaming)
 - [ ] API Route: GET/POST /api/posts
 - [ ] API Route: PUT/DELETE /api/posts/[id]
@@ -74,7 +74,8 @@
 
 ## 🚧 Việc còn dở / TODO tiếp theo
 
-1. [ ] Chọn Phase bắt đầu từ Workflow `/start-phase`
+1. [ ] Tạo component `EditorToolbar.tsx` và tích hợp vào `Editor.tsx`
+2. [ ] Xây dựng API Route `POST /api/ai/generate` (OpenAI Streaming)
 
 ---
 
